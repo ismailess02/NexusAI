@@ -1,0 +1,7 @@
+{
+  "name": "NexusAI - The Premium Creative Hub",
+  "description": "A high-end AI platform featuring multi-image fusion, a coin-based economy with automated rewards, tiered premium subscriptions, and full multilingual support.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
